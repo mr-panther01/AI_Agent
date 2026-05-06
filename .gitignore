@@ -1,0 +1,5 @@
+node_modules/
+.env
+.agent_thinking.md
+.agent_observations/
+output/
